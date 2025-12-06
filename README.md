@@ -110,6 +110,3 @@ To truly make this an **IoT Smart Irrigation** project, you can extend this by:
 * Adjust moisture threshold (30) based on your plant/soil requirements.
 * Calibrate the map() function using your own dry/wet readings.
 * You can remove lcd.autoscroll() if you want static display.
-
-- Or write a **short description** for your resume / LinkedIn.
-```
